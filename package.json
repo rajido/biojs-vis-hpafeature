@@ -1,7 +1,7 @@
 {
 	"name": "biojs-vis-hpafeature",
 	"description": "Component to represent one summary feature. Originally design to display protein expression information from the Human Protein Atlas (HPA).",
-	"version": "0.0.5",
+	"version": "0.0.6",
 	"homepage": "http://github.com/rajido/biojs-vis-hpafeature",
 	"repository": {
 		"type": "git",
@@ -73,7 +73,7 @@
 			"/css/hpaSummaryFeature.css"
 		],
 		"snippets": ["snippets"],
-		"first": "example2"
+		"first": "example"
 	},
 	"license": "Apache 2"
 }
